@@ -1,1 +1,2 @@
 ##div[class^="float-ck"]
+##div[id^="mbtfloat"]
